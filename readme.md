@@ -18,13 +18,14 @@ Build a simple AI tool directory web app that allows users to browse, add, and r
 ---
 
 ## Required Features
-- View a list of tools including name, ranking, and any other details you like.
-- Submit new tools
+- View a suggested list of tools including name, ranking, and any other details you like.
 - Click on a tool to view it's details and any associated reviews
 - Review a tool from it's details page
 - Search for tools
-- Use an aggregated rating for each tool to rank the list of tools
+- Submit new tools
+- Use the average of all of a tools ratings to determine a ranking for the list
 - If the latest 5 reviews for a tool are all 5-stars, the tool should be marked as a community favorite. If the latest 5 reviews are all 1-star reviews, the tool should be hidden from suggestions.
+- Styling is not of importance
 > Feel free to improvise any additions you believe demonstrate your expertise
 
 ---
