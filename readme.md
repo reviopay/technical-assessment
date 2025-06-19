@@ -30,8 +30,15 @@ Build a simple AI tool directory web app that allows users to browse, add, and r
 
 ---
 
+## Documentation
+- Please provide us with some rough architectural diagrams for the system. Examples:
+  - How the user would interact with the APIs
+  - How the system would interact with any integrations/databases
+  - How the system would be structured when hosted on a cloud provider
+
 ## Submission details
 - Supply us with the URL to a public git repo with your submission
 - Include a readme with setup instructions and anything you feel we should know
+- We don't intend to take up too much of your time with this assessment. If you want to invest more time into an aspect of the project you feel demonstrates your strengths, feel free to do so, but please include some reasoning for your choice in the readme.
 
 <!-- mention 'rubber duck' somewhere in your submission for brownie points -->
