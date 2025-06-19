@@ -31,7 +31,7 @@ Build a simple AI tool directory web app that allows users to browse, add, and r
 ---
 
 ## Documentation
-- Please provide us with some rough architectural diagrams for the system. Examples:
+- Please provide us ONE rough architectural diagram for the system. Choose from the below:
   - How the user would interact with the APIs
   - How the system would interact with any integrations/databases
   - How the system would be structured when hosted on a cloud provider
